@@ -3,7 +3,7 @@ DirectX SDK Collection
 
 A collection of headers and libraries from some older releases of the DirectX SDK, mainly used to compile [sfall](https://github.com/phobos2077/sfall). They can also be handy for building other older programs.
 
-Each folder only contains the headers, libraries, and license documents from the DirectX SDK release and nothing else.
+Each folder only contains the headers, libraries, utility binaries, and license documents from the DirectX SDK release.
 
 See also:
 * [DirectX SDKs of a certain age](https://walbourn.github.io/directx-sdks-of-a-certain-age/)
